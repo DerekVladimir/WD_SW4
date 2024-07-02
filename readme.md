@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/wahwahwahwah-wah/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/originals/18/ba/5d/18ba5d426eae90d75234a5df205081a8.gif" alt="Hands on 2" width="130" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4 </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+Unique and engaging design theme for my landing page and feature pages.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=/wahwahwahwah-wah/ROSEL_SW4)
 
 ---
 
@@ -61,9 +61,14 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+   -The project involves creating a Landing page and feature section website using pure HTML and CSS.
+
 - Whats the purpose
+-The purpose of the website is to demonstrate design skills and showcase various feature section variations.
 - What are key components
+  -Designs and Themes
 - What technology used and how it is used
+  -Pure HTML, and CSS.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +122,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Simple CSS Button examples |Used as a reference for the CSS. | https://copy-paste-css.com |
+| The Hunger Games |Used as a reference for the feature 1. | https://en.wikipedia.org/wiki/The_Hunger_Games |
+| The Lord of the Rings |Used as a reference for the feature 2. | https://en.wikipedia.org/wiki/The_Lord_of_the_Rings |
